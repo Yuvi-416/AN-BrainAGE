@@ -6,9 +6,9 @@ This repository contains code and pretrained models for the brain age prediction
 ## 🧠 Overview
 
 **Key files and folders:**
-- `train_script_DKL-GPR.py`: Script to train the DKL-GPR model
-- `train_script_SVR.py`: Script to train the SVR model
-- `pretrained_model.pt`: Pretrained DKL-GPR model
+- `train_test_DKL_GPR.py`: Script to train the DKL-GPR model
+- `train_test_SVR.py`: Script to train the SVR model
+- `Model_DKL_GPR_1000.pt`: Pretrained DKL-GPR model
 
 **Models available:**
 - DKL-GPR (used in final manuscript analyses)
