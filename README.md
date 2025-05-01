@@ -17,7 +17,6 @@ This repository contains code and pretrained models for the brain age prediction
 We used **377 features** per participant:
 - **Cortical features**: 68 Desikan-Killiany regions × 5 measures (volume, surface area, mean curvature, mean thickness, white matter volume) → 340 features.
 - **Subcortical features**: Volumes of 37 subcortical regions (excluding brainstem).
-- 
 All features were extracted using **FreeSurfer v7.3.2**.
 
 ## 📂 Preparing CSV Files
